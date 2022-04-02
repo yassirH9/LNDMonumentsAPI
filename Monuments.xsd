@@ -1,0 +1,25 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://www.yassir.com"
+    xmlns="https://www.yassir.com" elementFormDefault="qualified">
+    <xs:element name="data">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="row" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="N" minOccurs="1" maxOccurs="1" type="xs:integer"></xs:element>
+                            <xs:element name="TITULO" minOccurs="1" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="AUTOR" minOccurs="1" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="URL" minOccurs="1" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="UBICACION" minOccurs="1" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="IMAGEN" minOccurs="1" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="FECHA" minOccurs="1" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="DISTRITO" minOccurs="0" maxOccurs="1" type="xs:string"></xs:element>
+                            <xs:element name="HORARIO" minOccurs="0" maxOccurs="1" type="xs:string"></xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="_id" type="xs:integer"/>
+                    </xs:complexType>                   
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data
+xmlns="https://www.yassir.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://www.yassir.com Monuments.xsd"
+>
+    <row _id="113">
+        <N>788</N>
+        <TITULO>Luces en el vacío</TITULO>
+        <AUTOR>Juan Velázquez Padrón e Iván S. Rodríguez Cabrera</AUTOR>
+        <URL />
+        <UBICACION>Paseo de las Canteras - C/ Gordillo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/788.JPG</IMAGEN>
+        <FECHA>2010</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="114">
+        <N>802</N>
+        <TITULO>Busto del tenor Suso Mariategui</TITULO>
+        <AUTOR>Santiago Vargas Jorge</AUTOR>
+        <URL />
+        <UBICACION>Paseo de las Canteras - Cl Gomera</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/802.JPG</IMAGEN>
+        <FECHA>2011</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="115">
+        <N>347</N>
+        <TITULO>Monumento a Fernando León y Castillo</TITULO>
+        <AUTOR>Mariano Benlliure</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/Mariano_Benlliure</URL>
+        <UBICACION>Paseo de Chil – Parque Doramas</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/347.JPG</IMAGEN>
+        <FECHA>1926</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="116">
+        <N>360</N>
+        <TITULO>Monumento a los Juegos Olímpicos de México</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de los Juegos Olímpicos de México</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/360.JPG</IMAGEN>
+        <FECHA>1968</FECHA>
+        <HORARIO>09:00-15:00</HORARIO>
+    </row>
+    <row _id="117">
+        <N>361</N>
+        <TITULO>Torre helicoidal</TITULO>
+        <AUTOR>Juan Antonio Giraldo</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=626&amp;Itemid=736</URL>
+        <UBICACION>Feria del Atlántico – Cl Diego Betancor Suárez</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/361.JPG</IMAGEN>
+        <FECHA>1969</FECHA>
+        <HORARIO>10:15-19:00</HORARIO>
+    </row>
+    <row _id="118">
+        <N>363</N>
+        <TITULO>Monumento al General García Escámez</TITULO>
+        <AUTOR>Abraham Cárdenes Guerra</AUTOR>
+        <URL />
+        <UBICACION>Plaza de García Escámez</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/363.JPG</IMAGEN>
+        <FECHA>C. Primera mitad del siglo XX</FECHA>
+        <HORARIO>09:35-20:00</HORARIO>
+    </row>
+    <row _id="119">
+        <N>366</N>
+        <TITULO>Monumento a la Lucha Canaria</TITULO>
+        <AUTOR>Santiago Vargas Jorge</AUTOR>
+        <URL />
+        <UBICACION>Plaza Juegos Olímpicos de México</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/366.JPG</IMAGEN>
+        <FECHA>C. 1970 - 1973</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="120">
+        <N>399</N>
+        <TITULO>Busto de Felo Monzón</TITULO>
+        <AUTOR>Tony Gallardo. Fundido por el taller Bronzo en Tenerife</AUTOR>
+        <URL>http://www.tonygallardo.com</URL>
+        <UBICACION>Avenida del Pintor Felo Monzón – Cl Hoya de La Gallina</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/399.JPG</IMAGEN>
+        <FECHA>2000</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="121">
+        <N>426</N>
+        <TITULO>Las tres cruces</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Nuestra Señora de los Dolores</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/426.JPG</IMAGEN>
+        <FECHA>C. 1975</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="122">
+        <N>427</N>
+        <TITULO>Pleamar XXVII</TITULO>
+        <AUTOR>Amadeo Gabino</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=618&amp;Itemid=728</URL>
+        <UBICACION>Feria del Atlántico – Cl Diego Betancor Suárez</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/427.JPG</IMAGEN>
+        <FECHA>2001</FECHA>
+        <HORARIO>13:00-16:00</HORARIO>
+    </row>
+    <row _id="123">
+        <N>429</N>
+        <TITULO>Homenaje de la Ciudad de Telde a Las Palmas de Gran Canaria</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Jacinto Benavente</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/429.JPG</IMAGEN>
+        <FECHA>C. 1980</FECHA>
+        <HORARIO>09:00-13:00</HORARIO>
+    </row>
+    <row _id="124">
+        <N>430</N>
+        <TITULO>Homenaje de la Ciudad de Arucas a Las Palmas de Gran Canaria</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Jacinto Benavente</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/430.JPG</IMAGEN>
+        <FECHA>C. 1980</FECHA>
+        <HORARIO>09:00-13:00</HORARIO>
+    </row>
+    <row _id="125">
+        <N>432</N>
+        <TITULO>Monumento a la Paz</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de la Paz</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/432.JPG</IMAGEN>
+        <FECHA>C. 1990</FECHA>
+        <HORARIO>09:00-20:00</HORARIO>
+    </row>
+    <row _id="126">
+        <N>459</N>
+        <TITULO>Fuente de los leones o Fontana de oro</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza Don Benito</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/459.JPG</IMAGEN>
+        <FECHA>2000</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="127">
+        <N>699</N>
+        <TITULO>Monumento a Santiago García Díaz "CHARLOT"</TITULO>
+        <AUTOR>Manuel González Muñoz</AUTOR>
+        <URL>http://www.racba.es/index.php/seccion-de-escultura/513-gonzalez-munoz-manuel</URL>
+        <UBICACION>Plaza de Santiago García Díaz (Urb. Sansofé)</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/699.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="128">
+        <N>703</N>
+        <TITULO>Benito Pérez Galdós</TITULO>
+        <AUTOR>Ana Luisa Benítez Suárez</AUTOR>
+        <URL>http://www.analuisabenitez.com/</URL>
+        <UBICACION>Plaza de Don Benito</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/703.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="129">
+        <N>705</N>
+        <TITULO>La sabina</TITULO>
+        <AUTOR>Juan Antonio Giraldo</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=626&amp;Itemid=736</URL>
+        <UBICACION>Laderas de la Minilla</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/705.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <HORARIO>09:00-00:00</HORARIO>
+    </row>
+    <row _id="130">
+        <N>706</N>
+        <TITULO>Mural de la Minilla</TITULO>
+        <AUTOR>Jose Antonio García Álvarez</AUTOR>
+        <URL />
+        <UBICACION>Laderas de la Minilla</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/706.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="131">
+        <N>712</N>
+        <TITULO>Ideograma</TITULO>
+        <AUTOR>Juan Hidalgo</AUTOR>
+        <URL />
+        <UBICACION>Parque Juan Pablo II</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/712.JPG</IMAGEN>
+        <FECHA>2004</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="132">
+        <N>718</N>
+        <TITULO>Monumento conmemorativo a Schamann</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Paseo de San Antonio – Cl Salvador Monsalud</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/718.JPG</IMAGEN>
+        <FECHA>2004</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="133">
+        <N>727</N>
+        <TITULO>Monumento a Juan Pablo II</TITULO>
+        <AUTOR>Manuel González</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=631&amp;Itemid=741</URL>
+        <UBICACION>Parque Juan Pablo II</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/727.JPG</IMAGEN>
+        <FECHA>2005</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="134">
+        <N>736</N>
+        <TITULO>Pórticos</TITULO>
+        <AUTOR>Juan Correa Bordes</AUTOR>
+        <URL />
+        <UBICACION>Cl. León XIII. El Polvorín</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/736.JPG</IMAGEN>
+        <FECHA>2006</FECHA>
+        <HORARIO>09:00-13:00</HORARIO>
+    </row>
+    <row _id="135">
+        <N>374</N>
+        <TITULO>Monumento al Atlante</TITULO>
+        <AUTOR>Tony Gallardo</AUTOR>
+        <URL>http://www.tonygallardo.com</URL>
+        <UBICACION>Carretera del Rincón</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/374.JPG</IMAGEN>
+        <FECHA>1986</FECHA>
+        <HORARIO>00:00-00:00</HORARIO>
+    </row>
+    <row _id="136">
+        <N>777</N>
+        <TITULO>Los mártires de San Lorenzo</TITULO>
+        <AUTOR>Agustín Torón</AUTOR>
+        <URL />
+        <UBICACION>Parque de la Mayordomía</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/777.JPG</IMAGEN>
+        <FECHA>2010</FECHA>
+        <HORARIO>09:30-16:00</HORARIO>
+    </row>
+</data>

@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="https://www.yassir.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://www.yassir.com Monuments.xsd"
+>
+    <row _id="1">
+        <N>332</N>
+        <TITULO>Las Cuatro Estaciones - El Invierno</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL>http://esculturasdegrancanaria.blogia.com/2008/030203-escultura-las-cuatro-estaciones-el-verano.php</URL>
+        <UBICACION>Zona limítrofe entre los barrios de Triana y Vegueta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/332.JPG</IMAGEN>
+        <FECHA>1815</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="2">
+        <N>333</N>
+        <TITULO>Las Cuatro Estaciones - El Otoño</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL>http://fotografiasdeesculturas.blogspot.com.es/2011/01/esculturas-de-las-cuatro-estaciones.html</URL>
+        <UBICACION>Zona limítrofe entre los barrios de Triana y Vegueta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/333.JPG</IMAGEN>
+        <FECHA>1815</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="3">
+        <N>334</N>
+        <TITULO>Las Cuatro Estaciones - El Verano</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL>http://historiadegrancanaria.blogspot.com.es/2010/03/esculturas-de-1815.html</URL>
+        <UBICACION>Zona limítrofe entre los barrios de Triana y Vegueta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/334.JPG</IMAGEN>
+        <FECHA>1815</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="4">
+        <N>335</N>
+        <TITULO>Las Cuatro Estaciones - La Primavera</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL>http://esculturasbermaxo.blogspot.com.es/2013/11/escultura-las-cuatro-estaciones-en-las.html</URL>
+        <UBICACION>Zona limítrofe entre los barrios de Triana y Vegueta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/335.JPG</IMAGEN>
+        <FECHA>1815 ( la original )</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="5">
+        <N>339</N>
+        <TITULO>Perros de la Plaza de Santa Ana  y Cabezas de León</TITULO>
+        <AUTOR>Henri Alfred Jacquemart</AUTOR>
+        <URL>http://www.laspalmasgc.es/views/La%20Ciudad/Historia/Cronista%20de%20la%20Ciudad/documentos/120203PerrosSantaAna.pdf</URL>
+        <UBICACION>Plaza de Santa Ana / Cl. Obispo Codina</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/339.JPG</IMAGEN>
+        <FECHA>Circa última década del siglo XIX</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="6">
+        <N>340</N>
+        <TITULO>Arte</TITULO>
+        <AUTOR>Boutellier</AUTOR>
+        <URL>http://www.urbelaspalmas.com/casas-consistoriales-para-caballeros-de-mesa-larga/</URL>
+        <UBICACION>Plaza de Santa Ana</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/340.JPG</IMAGEN>
+        <FECHA>1909</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="7">
+        <N>341</N>
+        <TITULO>Comercio</TITULO>
+        <AUTOR>Boutellier</AUTOR>
+        <URL>http://www.urbelaspalmas.com/casas-consistoriales-para-caballeros-de-mesa-larga/</URL>
+        <UBICACION>Plaza de Santa Ana</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/341.JPG</IMAGEN>
+        <FECHA>1909</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="8">
+        <N>342</N>
+        <TITULO>Navegación</TITULO>
+        <AUTOR>Boutellier</AUTOR>
+        <URL>http://www.urbelaspalmas.com/casas-consistoriales-para-caballeros-de-mesa-larga/</URL>
+        <UBICACION>Plaza de Santa Ana</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/342.JPG</IMAGEN>
+        <FECHA>1909</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="9">
+        <N>343</N>
+        <TITULO>Agricultura</TITULO>
+        <AUTOR>Boutellier</AUTOR>
+        <URL>http://www.urbelaspalmas.com/casas-consistoriales-para-caballeros-de-mesa-larga/</URL>
+        <UBICACION>Plaza de Santa Ana</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/343.JPG</IMAGEN>
+        <FECHA>1909</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="10">
+        <N>355</N>
+        <TITULO>Monumento a D. Diego Mesa de León</TITULO>
+        <AUTOR>Plácido Fleitas Hernández</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/Pl%C3%A1cido_Fleitas</URL>
+        <UBICACION>Plazoleta Diego Mesa de León</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/355.JPG</IMAGEN>
+        <FECHA>1957</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="11">
+        <N>357</N>
+        <TITULO>Monumento a D. José Viera y Clavijo</TITULO>
+        <AUTOR>Plácido Fleitas Hernández</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/Pl%C3%A1cido_Fleitas</URL>
+        <UBICACION>Cl. Roque Morera</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/357.JPG</IMAGEN>
+        <FECHA>1958</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="12">
+        <N>358</N>
+        <TITULO>Busto al General San Martín</TITULO>
+        <AUTOR>Luis Perlotti</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/Luis_Perlotti</URL>
+        <UBICACION>Cl.Tucumán</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/358.JPG</IMAGEN>
+        <FECHA>C. 1961</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="13">
+        <N>370</N>
+        <TITULO>Monumento a San Francisco de Asís</TITULO>
+        <AUTOR>Francisca Melián Chirino</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=507&amp;Itemid=615</URL>
+        <UBICACION>Cl. Juan Sebastián Bach</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/370.JPG</IMAGEN>
+        <FECHA>1981</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="14">
+        <N>381</N>
+        <TITULO>Monumento a Pepe Caña Dulce</TITULO>
+        <AUTOR>Felipe Tomás Vega Domínguez. Escuela Taller de Agüimes</AUTOR>
+        <URL>http://www.barriodesanjose.com/blog_barriodesanjose/?p=13777</URL>
+        <UBICACION>Rotonda Pepe Caña Dulce, Paseo San José N 54</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/381.JPG</IMAGEN>
+        <FECHA>1992</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="15">
+        <N>383</N>
+        <TITULO>Busto de Manolo Millares</TITULO>
+        <AUTOR>M. Alonso Muñoz</AUTOR>
+        <URL>http://www.march.es/arte/exposiciones/artista.asp?clave_autor=380&amp;clave_expo=39</URL>
+        <UBICACION>Parque Manolo Millares</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/383.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="16">
+        <N>401</N>
+        <TITULO>Lady Harimaguada</TITULO>
+        <AUTOR>Martín Chirino López</AUTOR>
+        <URL>http://www.martinchirino.com/</URL>
+        <UBICACION>Avenida Marítima</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/401.JPG</IMAGEN>
+        <FECHA>1996</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="17">
+        <N>410</N>
+        <TITULO>Monumento a Juan Brito García</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL>http://www.laestrellaquenosguia.com/index.php?option=com_content&amp;view=article&amp;id=177%3Aesculturas-las-palmas-3&amp;catid=1%3Alatest-news&amp;Itemid=162</URL>
+        <UBICACION>Paseo de San José N 102</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/410.JPG</IMAGEN>
+        <FECHA>1999</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="18">
+        <N>450</N>
+        <TITULO>Fuente de la Plaza de Santo Domingo</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Santo Domingo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/450.JPG</IMAGEN>
+        <FECHA>1792</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="19">
+        <N>451</N>
+        <TITULO>Fuente Monumental del Espíritu Santo</TITULO>
+        <AUTOR>Manuel Ponce de León y Falcón</AUTOR>
+        <URL>http://www.racba.es/index.php/listado-alfabetico/157-ponce-de-leon-y-falcon-manuel</URL>
+        <UBICACION>Plaza del Espíritu Santo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/451.JPG</IMAGEN>
+        <FECHA>1862 a 1869</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="20">
+        <N>461</N>
+        <TITULO>Fuente del Pilar Nuevo</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza del Pilar Nuevo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/461.JPG</IMAGEN>
+        <FECHA>C. Inicios década de los ochenta del siglo XX</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="21">
+        <N>468</N>
+        <TITULO>Placa dedicada a Luján Pérez</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Santa Ana, fachada de la Catedral</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/468.JPG</IMAGEN>
+        <FECHA>1915</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="22">
+        <N>501</N>
+        <TITULO>Themis en el jardín de las Hespérides</TITULO>
+        <AUTOR>Leopoldo Emperador</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=39&amp;Itemid=84</URL>
+        <UBICACION>Pza. de Santa Isabel</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/501.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="23">
+        <N>702</N>
+        <TITULO>Homenaje a Néstor Álamo</TITULO>
+        <AUTOR>Ana Luisa Benítez</AUTOR>
+        <URL>http://www.analuisabenitez.com/</URL>
+        <UBICACION>Calle Herrería</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/702.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="24">
+        <N>704</N>
+        <TITULO>Conjunto decorativo Plaza de Santa Isabel</TITULO>
+        <AUTOR>Jose Luis García Álvarez</AUTOR>
+        <URL>http://esculturasdegrancanaria.blogia.com/2008/043008-conjunto-decorativo-plaza-de-santa-isabel.php</URL>
+        <UBICACION>Pza. de Santa Isabel</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/704.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="25">
+        <N>709</N>
+        <TITULO>Piedra Roja</TITULO>
+        <AUTOR>Tony Gallardo</AUTOR>
+        <URL>http://www.tonygallardo.com</URL>
+        <UBICACION>Hoya de la Plata</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/709.JPG</IMAGEN>
+        <FECHA>1977</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="26">
+        <N>717</N>
+        <TITULO>Señora de compras</TITULO>
+        <AUTOR>Fernando Maseda García y Magdalena Juan Rijo</AUTOR>
+        <URL>http://esculturasbermaxo.blogspot.com.es/2013/11/senora-de-compraslas-palmasesculturas.html</URL>
+        <UBICACION>Mercado de Vegueta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/717.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="27">
+        <N>403</N>
+        <TITULO>Monumento a Adargoma</TITULO>
+        <AUTOR>Manuel González</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=631&amp;Itemid=741</URL>
+        <UBICACION>Plaza de Santa isabel</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/403.JPG</IMAGEN>
+        <FECHA>1989 – bronce 2010</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="28">
+        <N>771</N>
+        <TITULO>Exordio</TITULO>
+        <AUTOR>Manuel González</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=631&amp;Itemid=741</URL>
+        <UBICACION>Playa de la Laja</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/771.JPG</IMAGEN>
+        <FECHA>2011</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="29">
+        <N>785</N>
+        <TITULO>Los guardianes del terrero</TITULO>
+        <AUTOR>Manuel González</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=631&amp;Itemid=741</URL>
+        <UBICACION>Pedro Hidalgo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/785.JPG</IMAGEN>
+        <FECHA>1999</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="30">
+        <N>789</N>
+        <TITULO>Pepe Monagas</TITULO>
+        <AUTOR>Susana Requena</AUTOR>
+        <URL />
+        <UBICACION>Fachada del Mercado de Vegueta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/789.JPG</IMAGEN>
+        <FECHA>2004</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="31">
+        <N>801</N>
+        <TITULO>Paloma de la Paz</TITULO>
+        <AUTOR>Sebastián Navarro Betancor</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=346&amp;Itemid=444</URL>
+        <UBICACION>Cl. Severo Ochoa, el Batán</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/801.JPG</IMAGEN>
+        <FECHA>1991</FECHA>
+        <DISTRITO>DISTRITO VEGUETA, CONO SUR Y TAFIRA</DISTRITO>
+    </row>
+    <row _id="32">
+        <N>319</N>
+        <TITULO>Busto de Néstor Martín Fernández de la Torre</TITULO>
+        <AUTOR>Juan Borges Linares</AUTOR>
+        <URL>http://juan_borges_linares.blogia.com/temas/biografia.php</URL>
+        <UBICACION>Parque Doramas - Frente a la entrada del Pueblo Canario</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/319.JPG</IMAGEN>
+        <FECHA>1985</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="33">
+        <N>324</N>
+        <TITULO>Monumento a Don Antonio López Botas</TITULO>
+        <AUTOR>Máximo Riol Cimas</AUTOR>
+        <URL />
+        <UBICACION>Cl. Lentini</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/324.JPG</IMAGEN>
+        <FECHA>Circa 1994</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="34">
+        <N>327</N>
+        <TITULO>Monumento a Baltasar Champsaur Sicilia</TITULO>
+        <AUTOR>Agustín Bautista Sosa</AUTOR>
+        <URL />
+        <UBICACION>Plaza de la Concordia</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/327.JPG</IMAGEN>
+        <FECHA>Circa 1995</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="35">
+        <N>337</N>
+        <TITULO>Monumento a Cristóbal Colón</TITULO>
+        <AUTOR>Paolo Triscornia di Ferdinando</AUTOR>
+        <URL />
+        <UBICACION>Alameda de Colón</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/337.JPG</IMAGEN>
+        <FECHA>1892</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="36">
+        <N>338</N>
+        <TITULO>Monumento a Bartolomé Cairasco de Figueroa</TITULO>
+        <AUTOR>Busto de Cairasco de Paolo Triscornia di Ferdinando. Pedestal de Antonio López Echegarreta.</AUTOR>
+        <URL />
+        <UBICACION>Plaza Cairasco</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/338.JPG</IMAGEN>
+        <FECHA>Busto en 1894. Pedestal o basamento en 1876</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="37">
+        <N>345</N>
+        <TITULO>Monumento a Tomás Morales</TITULO>
+        <AUTOR>Victorio Macho</AUTOR>
+        <URL />
+        <UBICACION>Calle Pérez del Toro</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/345.JPG</IMAGEN>
+        <FECHA>1921</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="38">
+        <N>346</N>
+        <TITULO>Monumento a Ambrosio Hurtado de Mendoza</TITULO>
+        <AUTOR>Neri</AUTOR>
+        <URL />
+        <UBICACION>Plaza Hurtado de Mendoza</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/346.JPG</IMAGEN>
+        <FECHA>1922</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="39">
+        <N>348</N>
+        <TITULO>Virgen de la Luz</TITULO>
+        <AUTOR>Se puede atribuir a Abraham Cárdenes</AUTOR>
+        <URL />
+        <UBICACION>Pueblo Canario.Cl. Francisco González Díaz</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/348.JPG</IMAGEN>
+        <FECHA>C. 1941-1942</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="40">
+        <N>349</N>
+        <TITULO>Dánae</TITULO>
+        <AUTOR>Plácido Fleitas Hernández</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/Pl%C3%A1cido_Fleitas</URL>
+        <UBICACION>Parque Doramas</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/349.JPG</IMAGEN>
+        <FECHA>C. 1944</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="41">
+        <N>350</N>
+        <TITULO>Busto de Cristóbal del Castillo Manrique de Lara</TITULO>
+        <AUTOR>Abraham Cárdenes</AUTOR>
+        <URL />
+        <UBICACION>Parque San Telmo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/350.JPG</IMAGEN>
+        <FECHA>Circa 1945</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="42">
+        <N>352</N>
+        <TITULO>Busto de Alonso Quesada</TITULO>
+        <AUTOR>Plácido Fleitas Hernández</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/Pl%C3%A1cido_Fleitas</URL>
+        <UBICACION>Calle León y Castillo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/352.JPG</IMAGEN>
+        <FECHA>1955</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="43">
+        <N>353</N>
+        <TITULO>Obelisco de la Plaza  de la Constitución</TITULO>
+        <AUTOR>Juan Margarit Serradell y Cayetano Guerra del Río</AUTOR>
+        <URL />
+        <UBICACION>Calle Tomás Morales</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/353.JPG</IMAGEN>
+        <FECHA>1955 - 1957</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="44">
+        <N>359</N>
+        <TITULO>Monumento a Alonso de Alvarado</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Carretera de Mata</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/359.JPG</IMAGEN>
+        <FECHA>1962</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="45">
+        <N>362</N>
+        <TITULO>Monumento a Don Benito Pérez Galdós</TITULO>
+        <AUTOR>Pablo Serrano</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=394&amp;Itemid=495</URL>
+        <UBICACION>Plaza de la Feria</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/362.JPG</IMAGEN>
+        <FECHA>1969</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="46">
+        <N>367</N>
+        <TITULO>Actividades primitivas canarias</TITULO>
+        <AUTOR>Luis Alemán Montull</AUTOR>
+        <URL>http://www.cayomecenas.com/mecenas1403.htm</URL>
+        <UBICACION>Plaza de España. Av. José Mesa y López</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/367.JPG</IMAGEN>
+        <FECHA>1977</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="47">
+        <N>368</N>
+        <TITULO>Cruceiro</TITULO>
+        <AUTOR>Daniel González y Alfonso San Martín</AUTOR>
+        <URL />
+        <UBICACION>Esquina Avenida Rafael Cabrera con Bravo Murillo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/368.JPG</IMAGEN>
+        <FECHA>1979</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="48">
+        <N>369</N>
+        <TITULO>Atis Tirma</TITULO>
+        <AUTOR>Manuel Bethencourt Santana</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=563&amp;Itemid=673</URL>
+        <UBICACION>Parque Doramas. Cl. León y castillo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/369.JPG</IMAGEN>
+        <FECHA>1981</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="49">
+        <N>372</N>
+        <TITULO>Monumento a Simón Bolívar</TITULO>
+        <AUTOR>Juan Jaen Díaz</AUTOR>
+        <URL>http://canariosenelmundo.com/gente/biografias/biografia-del-escultor-canario-venezolano-juan-jaen-diaz/</URL>
+        <UBICACION>Jardines Alonso Quesada</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/372.JPG</IMAGEN>
+        <FECHA>1982</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="50">
+        <N>380</N>
+        <TITULO>Monumento a Don Benito Pérez Galdós</TITULO>
+        <AUTOR>Manuel Bethencourt</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=563&amp;Itemid=673</URL>
+        <UBICACION>Calle Rafael Cabrera</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/380.JPG</IMAGEN>
+        <FECHA>1991</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="51">
+        <N>384</N>
+        <TITULO>Monumento a Agustín Millares Carló</TITULO>
+        <AUTOR>Juan Borges Linares</AUTOR>
+        <URL>http://juan_borges_linares.blogia.com/temas/biografia.php</URL>
+        <UBICACION>Calle Pérez del Toro</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/384.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="52">
+        <N>386</N>
+        <TITULO>Monumento al doctor D. Juan Negrín López</TITULO>
+        <AUTOR>Juan Bordes Caballero</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=569&amp;Itemid=679</URL>
+        <UBICACION>Cl. Triana</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/386.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="53">
+        <N>391</N>
+        <TITULO>Monumento a Camille Saint - Saëns</TITULO>
+        <AUTOR>Juan Borges Linares</AUTOR>
+        <URL>http://juan_borges_linares.blogia.com/temas/biografia.php</URL>
+        <UBICACION>Cl. Lentini</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/391.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="54">
+        <N>393</N>
+        <TITULO>Monumento a Gregorio Chil y Naranjo</TITULO>
+        <AUTOR>Abraham Cárdenes</AUTOR>
+        <URL />
+        <UBICACION>Paseo de Chil</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/393.JPG</IMAGEN>
+        <FECHA>C. 1994</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="55">
+        <N>394</N>
+        <TITULO>Busto del doctor Domingo J. Navarro</TITULO>
+        <AUTOR>Fátima Cabrera Rodríguez. Fundidor: Eugenio Correa Rijo</AUTOR>
+        <URL />
+        <UBICACION>Entre la Plaza de Cairasco y la Calle Malteses, junto al Gabinete Literario</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/394.JPG</IMAGEN>
+        <FECHA>C. 1994</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="56">
+        <N>396</N>
+        <TITULO>Monumento a Pablo Iglesias</TITULO>
+        <AUTOR>Juan Borges Linares</AUTOR>
+        <URL>http://juan_borges_linares.blogia.com/temas/biografia.php</URL>
+        <UBICACION>Avenida 1º Mayo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/396.JPG</IMAGEN>
+        <FECHA>1994</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="57">
+        <N>400</N>
+        <TITULO>Monumento a Rafael O'Shanahan</TITULO>
+        <AUTOR>José Perera Valido</AUTOR>
+        <URL />
+        <UBICACION>Plaza Doctor Rafael O’Shanahan</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/400.JPG</IMAGEN>
+        <FECHA>1995</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="58">
+        <N>402</N>
+        <TITULO>La Portada</TITULO>
+        <AUTOR>Máximo Riol Cimas</AUTOR>
+        <URL />
+        <UBICACION>Rotonda de los Arquitectos Técnicos</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/402.JPG</IMAGEN>
+        <FECHA>1997</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="59">
+        <N>408</N>
+        <TITULO>Busto de San Juan Bosco</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Jardines Alonso Quesada, Cl. León y Castillo.</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/408.JPG</IMAGEN>
+        <FECHA>1998</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="60">
+        <N>409</N>
+        <TITULO>Monumento a la Vela Latina</TITULO>
+        <AUTOR>Juan Antonio Giraldo</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=626&amp;Itemid=736</URL>
+        <UBICACION>Avenida Maritima</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/409.JPG</IMAGEN>
+        <FECHA>1998</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="61">
+        <N>411</N>
+        <TITULO>Alianza</TITULO>
+        <AUTOR>Facundo Fierro</AUTOR>
+        <URL />
+        <UBICACION>Avenida Juan XXIII</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/411.JPG</IMAGEN>
+        <FECHA>1999</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="62">
+        <N>412</N>
+        <TITULO>Al Padrecito</TITULO>
+        <AUTOR>Máximo Riol Cimas</AUTOR>
+        <URL />
+        <UBICACION>Parque de la Música</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/412.JPG</IMAGEN>
+        <FECHA>C. 1999</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="63">
+        <N>413</N>
+        <TITULO>Busto del Doctor D. José Ponce Arias</TITULO>
+        <AUTOR>Juan Delgado</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Gabriel Mejías Pombo - Calle Pío XII</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/413.JPG</IMAGEN>
+        <FECHA>1999</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="64">
+        <N>414</N>
+        <TITULO>Busto de Don Benito Pérez Galdós</TITULO>
+        <AUTOR>Teo Mesa</AUTOR>
+        <URL />
+        <UBICACION>Plaza de la Caleta            Parque Doramas</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/414.JPG</IMAGEN>
+        <FECHA>2000</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="65">
+        <N>416</N>
+        <TITULO>Busto de Don José Perojo</TITULO>
+        <AUTOR>Facundo Fierro</AUTOR>
+        <URL />
+        <UBICACION>Plaza Padre Hilario. Calle Murga</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/416.JPG</IMAGEN>
+        <FECHA>C. 2000</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="66">
+        <N>423</N>
+        <TITULO>Homenaje a los Olímpicos de la Provincia de Las Palmas</TITULO>
+        <AUTOR>Juan Bordes Caballero</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=569&amp;Itemid=679</URL>
+        <UBICACION>Paseo de la Playa de Las Alcaravaneras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/423.JPG</IMAGEN>
+        <FECHA>C. 2001</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="67">
+        <N>435</N>
+        <TITULO>El Nacimiento de Gran Canaria (piedra artificial)</TITULO>
+        <AUTOR>Abraham Cárdenes</AUTOR>
+        <URL />
+        <UBICACION>Jardines Alonso Quesada</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/435.JPG</IMAGEN>
+        <FECHA>C. 1960</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="68">
+        <N>436</N>
+        <TITULO>Alegoría del antiguo Puente de Palo</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>C/ Lentini, esquina Triana</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/436.JPG</IMAGEN>
+        <FECHA>C. Último cuarto del siglo XX.</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="69">
+        <N>454</N>
+        <TITULO>Fuente en la Plazoleta de Emilio Ley</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Cl. Pío XII - Plaza de Emilio Ley</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/454.JPG</IMAGEN>
+        <FECHA>C. 1958</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="70">
+        <N>457</N>
+        <TITULO>Fuente de Las Ranas en la Plaza Hurtado de Mendoza</TITULO>
+        <AUTOR>Enrique Spinola González y Enrique Spinola Cabrera (Proyecto reforma de la plaza); Juan Correa (ranas)</AUTOR>
+        <URL />
+        <UBICACION>Plaza Hurtado de Mendoza</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/457.JPG</IMAGEN>
+        <FECHA>2001</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="71">
+        <N>458</N>
+        <TITULO>Fuente en la Plaza Rafael O’Shanahann</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Plaza Rafael O’Shanahann  - Calle León y Castillo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/458.JPG</IMAGEN>
+        <FECHA>2001</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="72">
+        <N>654</N>
+        <TITULO>Monumento a José Comas Quesada</TITULO>
+        <AUTOR>José Perera Valido</AUTOR>
+        <URL />
+        <UBICACION>Alameda de Colón</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/654.JPG</IMAGEN>
+        <FECHA>C. 1995</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="73">
+        <N>666</N>
+        <TITULO>Monumento  Juan Bravo Murillo</TITULO>
+        <AUTOR>Ana Luisa Benítez</AUTOR>
+        <URL>http://www.analuisabenitez.com/</URL>
+        <UBICACION>Paseo Tomás Morales</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/666.JPG</IMAGEN>
+        <FECHA>2002</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="74">
+        <N>710</N>
+        <TITULO>Planeta Ella</TITULO>
+        <AUTOR>Carmela García</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=237&amp;Itemid=310</URL>
+        <UBICACION>Jardines de Nicolás María Rubió</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/710.JPG</IMAGEN>
+        <FECHA>2004</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="75">
+        <N>716</N>
+        <TITULO>Cordialidad</TITULO>
+        <AUTOR>Juan José Gil</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=789&amp;Itemid=911</URL>
+        <UBICACION>Plaza de Antonio Betancor Massieu</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/716.JPG</IMAGEN>
+        <FECHA>2004</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="76">
+        <N>753</N>
+        <TITULO>Otomana</TITULO>
+        <AUTOR>Leopoldo Emperador</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=39&amp;Itemid=84</URL>
+        <UBICACION>Plaza de los Derechos Humanos</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/753.JPG</IMAGEN>
+        <FECHA>2007</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="77">
+        <N>435</N>
+        <TITULO>El Nacimiento de Gran Canaria (bronce)</TITULO>
+        <AUTOR>Abraham Cárdenes</AUTOR>
+        <URL />
+        <UBICACION>Parque Doramas</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/435.JPG</IMAGEN>
+        <FECHA>2010 (bronce)</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="78">
+        <N>775</N>
+        <TITULO>Monumento conmemorativo bicentenario Muelle de las Palmas (ancla)</TITULO>
+        <AUTOR>Jardines calle Muelle de las Palmas</AUTOR>
+        <URL />
+        <UBICACION>Muelle Las Palmas</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/775.JPG</IMAGEN>
+        <FECHA>30 de mayo de 2011 (inauguración)</FECHA>
+        <DISTRITO>DISTRITO CENTRO</DISTRITO>
+    </row>
+    <row _id="79">
+        <N>351</N>
+        <TITULO>Máter Ínsula</TITULO>
+        <AUTOR>Juan Márquez Peñate</AUTOR>
+        <URL>http://www.mcnbiografias.com/app-bio/do/show?key=marquez-pennate-juan</URL>
+        <UBICACION>Jardines acceso al antiguo Muelle Grande</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/351.JPG</IMAGEN>
+        <FECHA>C. 1951-1956</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="80">
+        <N>354</N>
+        <TITULO>Marineros</TITULO>
+        <AUTOR>Pedro Barral</AUTOR>
+        <URL />
+        <UBICACION>Cl. Juan Rejón</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/354.JPG</IMAGEN>
+        <FECHA>C. 1956</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="81">
+        <N>356</N>
+        <TITULO>Busto de Don Juan de León y Castillo</TITULO>
+        <AUTOR>Pedro Barral</AUTOR>
+        <URL />
+        <UBICACION>Jardines de acceso al antiguo Muelle Grande</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/356.JPG</IMAGEN>
+        <FECHA>1958</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="82">
+        <N>371</N>
+        <TITULO>Monumento a Belén María</TITULO>
+        <AUTOR>Federico Hernández Corujo "Fillo"</AUTOR>
+        <URL />
+        <UBICACION>Plaza de Belén María</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/371.JPG</IMAGEN>
+        <FECHA>1982</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="83">
+        <N>373</N>
+        <TITULO>Busto de Saulo Torón</TITULO>
+        <AUTOR>Juan Jaen Díaz</AUTOR>
+        <URL>http://canariosenelmundo.com/gente/biografias/biografia-del-escultor-canario-venezolano-juan-jaen-diaz/</URL>
+        <UBICACION>Cl. Sagasta. Paseo de las Canteras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/373.JPG</IMAGEN>
+        <FECHA>1982</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="84">
+        <N>376</N>
+        <TITULO>Busto del Doctor Don Apolinario Macías</TITULO>
+        <AUTOR>Juan Delgado</AUTOR>
+        <URL />
+        <UBICACION>Paseo de las Canteras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/376.JPG</IMAGEN>
+        <FECHA>1987</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="85">
+        <N>378</N>
+        <TITULO>Hombre, Pájaro, Avión</TITULO>
+        <AUTOR>Alfonso Sard Sánchez</AUTOR>
+        <URL />
+        <UBICACION>Paseo de las Canteras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/378.JPG</IMAGEN>
+        <FECHA>1998</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="86">
+        <N>379</N>
+        <TITULO>La mujer y su sombra</TITULO>
+        <AUTOR>César Manrique</AUTOR>
+        <URL />
+        <UBICACION>Paseo de las Canteras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/379.JPG</IMAGEN>
+        <FECHA>C.  Década de los 90 (Siglo XX)</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="87">
+        <N>382</N>
+        <TITULO>Monumento a las Olimpiadas de Barcelona’ 92</TITULO>
+        <AUTOR>Juan Antonio Giraldo</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=626&amp;Itemid=736</URL>
+        <UBICACION>Cl Eduardo Benot – Cl Pedro Castillo Westerling</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/382.JPG</IMAGEN>
+        <FECHA>1992</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="88">
+        <N>385</N>
+        <TITULO>Pirámide del Paseo de Las Canteras</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Paseo de las Canteras N 19</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/385.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="89">
+        <N>387</N>
+        <TITULO>Los niños de la barra</TITULO>
+        <AUTOR>Juan Bordes Caballero</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=569&amp;Itemid=679</URL>
+        <UBICACION>Paseo de Las Canteras – Calle Sagasta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/387.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="90">
+        <N>388</N>
+        <TITULO>Los niños de la barra</TITULO>
+        <AUTOR>Juan Bordes Caballero</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=569&amp;Itemid=679</URL>
+        <UBICACION>Paseo de Las Canteras – Calle Sagasta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/388.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="91">
+        <N>389</N>
+        <TITULO>Los niños de la barra</TITULO>
+        <AUTOR>Juan Bordes Caballero</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=569&amp;Itemid=679</URL>
+        <UBICACION>Paseo de Las Canteras – Calle Sagasta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/389.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="92">
+        <N>390</N>
+        <TITULO>Los niños de la barra</TITULO>
+        <AUTOR>Juan Bordes Caballero</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=569&amp;Itemid=679</URL>
+        <UBICACION>Paseo de Las Canteras – Calle Sagasta</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/390.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="93">
+        <N>392</N>
+        <TITULO>Monumento a Juan Rodríguez Doreste</TITULO>
+        <AUTOR>Santiago Vargas Jorge</AUTOR>
+        <URL />
+        <UBICACION>Parque Juan Rodríguez Doreste – Calle Nicolás Estévanez – Autovía</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/392.JPG</IMAGEN>
+        <FECHA>C. 1994</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="94">
+        <N>397</N>
+        <TITULO>Busto de "Pepe" Gonçálvez</TITULO>
+        <AUTOR>Tony Gallardo</AUTOR>
+        <URL>http://www.tonygallardo.com</URL>
+        <UBICACION>Playa de las Canteras – Cl Ferreras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/397.JPG</IMAGEN>
+        <FECHA>1954 (modelo en yeso), 1994 (bronce)</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="95">
+        <N>398</N>
+        <TITULO>Monumento a José Franchy Roca</TITULO>
+        <AUTOR>Juan Trujillo Hernández. Fundido por Eugenio Correa Rijo</AUTOR>
+        <URL />
+        <UBICACION>Cl. Eduardo Benot – Cl Luis Morote</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/398.JPG</IMAGEN>
+        <FECHA>C. 1995</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="96">
+        <N>404</N>
+        <TITULO>Juguete del Viento</TITULO>
+        <AUTOR>César Manrique</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=349&amp;Itemid=447</URL>
+        <UBICACION>Paseo de las Canteras.  La Puntilla</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/404.JPG</IMAGEN>
+        <FECHA>1991</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="97">
+        <N>405</N>
+        <TITULO>Monumento a Lolita Pluma</TITULO>
+        <AUTOR>F. Ávila</AUTOR>
+        <URL />
+        <UBICACION>Parque Santa Catalina. Cl. Luis Morote</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/405.JPG</IMAGEN>
+        <FECHA>1998</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="98">
+        <N>406</N>
+        <TITULO>Monumento a Jacques Cousteau</TITULO>
+        <AUTOR>Manuel González</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=631&amp;Itemid=741</URL>
+        <UBICACION>Paseo de las Canteras. La Puntilla</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/406.JPG</IMAGEN>
+        <FECHA>1998</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="99">
+        <N>415</N>
+        <TITULO>Monumento a Alfredo Kraus</TITULO>
+        <AUTOR>Víctor Ochoa</AUTOR>
+        <URL>http://www.victorochoa.com/</URL>
+        <UBICACION>Jardines Puertos Atlánticos. Paseo de las Canteras</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/415.JPG</IMAGEN>
+        <FECHA>Circa. 1997</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="100">
+        <N>460</N>
+        <TITULO>Fuente del Parque Santa Catalina.</TITULO>
+        <AUTOR>Anónimo</AUTOR>
+        <URL />
+        <UBICACION>Parque de Santa Catalina</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/460.JPG</IMAGEN>
+        <FECHA>C. Década años cuarenta del siglo XX.</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="101">
+        <N>620</N>
+        <TITULO>Reloj de Sol del Parque Santa Catalina</TITULO>
+        <AUTOR>Pedro Romera</AUTOR>
+        <URL />
+        <UBICACION>Parque Santan Catalina.Trasera Eificio Elder</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/620.JPG</IMAGEN>
+        <FECHA>1999</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="102">
+        <N>655</N>
+        <TITULO>Monumento al Capitán Etayo</TITULO>
+        <AUTOR>José de Armas</AUTOR>
+        <URL />
+        <UBICACION>Parque del Castillo de la Luz</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/655.JPG</IMAGEN>
+        <FECHA>1993</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="103">
+        <N>667</N>
+        <TITULO>Monumento a Luis Morote Greus</TITULO>
+        <AUTOR>Francisca Melián Chirino</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=507&amp;Itemid=615</URL>
+        <UBICACION>Calle  Luis Morote</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/667.JPG</IMAGEN>
+        <FECHA>Circa 1994</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="104">
+        <N>698</N>
+        <TITULO>Niños jugando con agua</TITULO>
+        <AUTOR>Ana Luisa Benítez</AUTOR>
+        <URL>http://www.analuisabenitez.com/</URL>
+        <UBICACION>Plazoleta de Farray</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/698.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="105">
+        <N>700</N>
+        <TITULO>El pescador</TITULO>
+        <AUTOR>Chano Navarro</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=346&amp;Itemid=444</URL>
+        <UBICACION>Paseo de las Canteras – Cl Olof Palme – Plaza de Las Vanguardias</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/700.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="106">
+        <N>701</N>
+        <TITULO>Escultura "Homenaje a la travesía de la Peña la Vieja"</TITULO>
+        <AUTOR>Miguel Panadero Escala</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=41&amp;Itemid=86</URL>
+        <UBICACION>Paseo de las Canteras – Cl Pelayo</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/701.JPG</IMAGEN>
+        <FECHA>2003</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="107">
+        <N>728</N>
+        <TITULO>Monumento a Mary Sánchez</TITULO>
+        <AUTOR>Ana Luisa Benítez</AUTOR>
+        <URL>http://www.analuisabenitez.com/</URL>
+        <UBICACION>Paseo de Las Canteras - Cl. Salvador Cuyás</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/728.JPG</IMAGEN>
+        <FECHA>2005</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="108">
+        <N>734</N>
+        <TITULO>"Héroes solidarios" -  Homenaje a los trabajadores fallecidos en accidente laboral</TITULO>
+        <AUTOR>Etual Ojeda</AUTOR>
+        <URL>http://etualojeda.arte.tel/</URL>
+        <UBICACION>Paseo de las Canteras – El Rincón</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/734.JPG</IMAGEN>
+        <FECHA>2006</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="109">
+        <N>735</N>
+        <TITULO>Cambullonero</TITULO>
+        <AUTOR>Luis Alemán Montull</AUTOR>
+        <URL>http://www.cayomecenas.com/mecenas1403.htm</URL>
+        <UBICACION>Jardines del Castillo de la Luz</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/735.JPG</IMAGEN>
+        <FECHA>2006</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="110">
+        <N>738</N>
+        <TITULO>Juan Cazallas "El Chacalote"</TITULO>
+        <AUTOR>Sebastián Navarro Betancor</AUTOR>
+        <URL>http://www.diccionariodeartistas.org/index.php?option=com_content&amp;task=view&amp;id=346&amp;Itemid=444</URL>
+        <UBICACION>Paseo de las Canteras. La Puntilla</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/738.JPG</IMAGEN>
+        <FECHA>2006</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="111">
+        <N>754</N>
+        <TITULO>Luminarias de los Puertos Atlánticos (Proa, Noray, Ancla y     Chimenea)</TITULO>
+        <AUTOR>Oscar Tusquets</AUTOR>
+        <URL>http://es.wikipedia.org/wiki/%C3%93scar_Tusquets</URL>
+        <UBICACION>Jardines de los Puertos Atánticos</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/754.JPG</IMAGEN>
+        <FECHA>1997 - reproducidas en 2010</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+    <row _id="112">
+        <N>786</N>
+        <TITULO>Raíces</TITULO>
+        <AUTOR>Salvador Gil Clemente</AUTOR>
+        <URL />
+        <UBICACION>Calle Profesor Lozano. Rotonda</UBICACION>
+        <IMAGEN>http://datosabiertos.laspalmasgc.es/repositorio/mobiliario/fotos_monumentos/786.JPG</IMAGEN>
+        <FECHA>2012</FECHA>
+        <DISTRITO>DISTRITO PUERTO - CANTERAS</DISTRITO>
+    </row>
+</data>
+              
