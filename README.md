@@ -1,6 +1,9 @@
 # LNDMonumentsAPI
-An api to consult the most visited monuments in Las Palmas de Gran Canaria together with information about them such as visiting hours, etc.
+
+LNDMonumentsAPI is an api used to transmit tourist information to a possible app, which would show information and points of interest of the island of Las Palmas de Gran Canaria to possible tourists.
+
 -----------------------------------------------------------------------------------------------------------------------------
+
 ### Example of information used in the APP-API
 ```
 <row _id="1">
@@ -63,6 +66,26 @@ _Example of validation [in use]_
 ```
 
 ### Validated information
-![alt text]()
-![alt text]()
+<p align="center">
+  <img src="UMG2png.png" alt="TestXML1"/>
+  <img src="UMG1.png" alt="TestXML1"/>
+</p>
+
+As you can see in the images both xml were validated with a visual estudio plugin to validate xml code in vase to xsd files.
+
 -----------------------------------------------------------------------------------------------------------------------------
+
+## Tools Links
+
+
+[Plugin usde for VSC](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)</li><br>
+[Visual Studio Code](https://code.visualstudio.com/)</li>
+
+
+------------------------------------------------------------------------------------------------------------------------------
+## Links used
+[Used Data Download.](http://datosabiertos.laspalmasgc.es/dataset/?id=monumentos)<br>
+[General open data portal of the government of the canary islands.](https://datos.canarias.es/portal/)<br>
+[GitHub documentation readme.](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting)<br>
+[Policy on the use of the data used.](https://www.laspalmasgc.es/es/otras-secciones/aviso-legal/)<br>
+[Open data portal of the government of the canary islands.](http://datosabiertos.laspalmasgc.es/)<br>
